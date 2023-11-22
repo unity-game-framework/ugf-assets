@@ -1,0 +1,20 @@
+{
+    "name": "UGF.Assets.Editor.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c54ebf9bf71849f4b97d2be9494ec7ad"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
